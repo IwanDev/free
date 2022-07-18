@@ -8,7 +8,7 @@ $ cd maok
 ````
 
 # RUN
-````
+````bash
 $ Untuk 32bit Ketik 👇
 $ chmod +x iyeu_32
 $ ./iyeu_32
@@ -16,5 +16,6 @@ $ ./iyeu_32
 $ Untuk 64bit Ketik👇
 $ chmod +x iyeu_64
 $ ./iyeu_64
+````
 
-#SAKITU WAE TI PUSAT MAH
+#SAKITU WAE TI PUSAT MAH GUNAKAN YANG BIJAK YA LUR :)
