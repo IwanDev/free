@@ -1,4 +1,4 @@
-# SEBUAH TOOLS UNTUK KREK SEMPAK FB 
+LANGSUNG AJA INSTALL PERINTAH DI BAWAH
 
 ````bash
 $ pkg update && pkg upgrade
