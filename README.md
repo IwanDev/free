@@ -4,7 +4,7 @@ LANGSUNG AJA INSTALL PERINTAH DI BAWAH
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ python -m pip install bs4 requests futures
+$ pip install requests bs4
 $ git clone https://github.com/Iwan-Id/Free
 $ cd maok
 ````
