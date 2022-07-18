@@ -1,4 +1,5 @@
-#SEBUAH TOOLS UNTUK KREK SEMPAK JANDA
+# SEBUAH TOOLS UNTUK KREK SEMPAK FB 
+
 ````bash
 $ pkg update && pkg upgrade
 $ pkg install python
