@@ -16,3 +16,5 @@ $ ./iyeu_32
 $ Untuk 64bit Ketik👇
 $ chmod +x iyeu_64
 $ ./iyeu_64
+
+#SAKITU WAE TI PUSAT MAH
