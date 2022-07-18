@@ -9,10 +9,10 @@ $ cd maok
 
 # RUN
 ````
-Untuk 32bit Ketik 👇
-chmod +x iyeu_32
-./iyeu_32
+$ Untuk 32bit Ketik 👇
+$ chmod +x iyeu_32
+$ ./iyeu_32
 
-Untuk 64bit Ketik👇
-chmod +x iyeu_64
-./iyeu_64
+$ Untuk 64bit Ketik👇
+$ chmod +x iyeu_64
+$ ./iyeu_64
