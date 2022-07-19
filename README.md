@@ -9,7 +9,8 @@ $ git clone https://github.com/Iwan-Id/Free
 $ cd maok
 ````
 
-# RUN
+
+Run Script
 ````bash
 $ Untuk 32bit Ketik 👇
 $ chmod +x Scf_32 && ./Scf_32
