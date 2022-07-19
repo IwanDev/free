@@ -12,10 +12,10 @@ $ cd maok
 # RUN
 ````bash
 $ Untuk 32bit Ketik 👇
-$ chmod +x 32 && ./32
+$ chmod +x Scf_32 && ./Scf_32
 
 $ Untuk 64bit Ketik👇
-$ chmod +x 64 && ./64
+$ chmod +x Scf_64 && ./Scf_64
 ````
 
 SAKITU WAE TI PUSAT MAH GUNAKAN YANG BIJAK YA LUR :)
